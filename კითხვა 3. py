@@ -1,0 +1,11 @@
+# 3) მომხმარებელს შემოახანინე input შეამოწმე, არის თუ არა რიცხვი 50-ზე ნაკლები.
+
+num1 = int(input("Input The first number here:"))
+if num1 < 50:
+    print("The number you entered is NOT greater than 50")
+
+elif num1 < 50:
+    print("The number you entered is greater than 50")
+else:
+    print("The number you entered is equal to 50")
+
